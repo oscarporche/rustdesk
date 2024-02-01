@@ -1,11 +1,11 @@
 [package]
-name = "rustdesk"
+name = "RADIOTEQ-SUPPORT"
 version = "1.2.0"
 authors = ["rustdesk <info@rustdesk.com>"]
-edition = "2021"
+edition = "2024"
 build= "build.rs"
 description = "A remote control software."
-default-run = "rustdesk"
+default-run = "RADIOTEQ-SUPPORT"
 
 [lib]
 name = "librustdesk"
